@@ -1,5 +1,5 @@
 # 🚀 CT Scanner Simulator: OpenMP & FBP Reconstruction
-# ############################################################# Author Ahmet Uzoglu ##############################################################
+# ############################################################################### Author Ahmet Uzoglu ##############################################################
 A high-performance Computed Tomography (CT) simulation built in C++. This project simulates the complete medical imaging pipeline: from firing virtual X-rays (Forward Projection) to reconstructing the internal structure using the **FBP (Filtered Back Projection)** algorithm. 
 
 By leveraging **OpenMP**, the heavy matrix computations are parallelized across all CPU cores, reducing reconstruction time from minutes to seconds.
